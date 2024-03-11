@@ -9,6 +9,7 @@ public class leader_in_array {
                 break;
                 }
             }
+            
             if(i==arr.length-1){
                 break;
             }
