@@ -4,7 +4,7 @@ public class pascals_triangle {
         for(i=1;i<=6;i++){
             for(j=1;j<=i;j++){
                 if(i==1 || j==1){
-                     value=1;
+                    value=1;
                 }
                 else{
                     value=value*(i-j+1)/(j-1);
